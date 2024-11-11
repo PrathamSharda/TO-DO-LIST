@@ -12,7 +12,7 @@ it include 3 files of html,css and javascript in which HTML and css is to provid
 ![image](https://github.com/user-attachments/assets/92934823-9c7a-44bc-9edd-acdd71cee4ef)
 <br>
 
-<h4>They can also be deleted( for both completed and TODO tasks</h4>
+<h4>They can also be deleted( for both completed and TODO tasks)</h4>
 
 ![image](https://github.com/user-attachments/assets/c88d4613-e7d7-41f1-a025-f89e4f207310)
 
